@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    background-color: #287C8F;
+}
+
+header {
+    width: 100%;
+    height: 200px;
+    padding: 50px;
+    color: #FAFAFA;
+}
+
+.logo {
+    text-align: center;
+    padding: 27px;
+    border: solid 1px black;
+    width: 200px;
+    height: 75px;
+}
+.mainContainer {
+    width: 700px;
+    height: 650px;
+    text-align: center;
+    margin: 0 auto;
+    border: solid 1px black;
+    padding: 50px;
+    color: #FAFAFA;
+}
+h1 {
+    font-size: 36px;
+    font-weight: 100;
+}
+form {
+    text-align: left;
+}
+.button-style {
+    margin: 0 auto;
+    font-size: 36px;
+    padding: 20px;
+    font-weight: 400;
+    border-radius: 10px;
+    border: solid 2px gray;
+    background: white;
+    margin-top: 30px;
+}
+h2 {
+    font-size: 36px;
+    font-weight: 100;
+    text-align: center;
+}
+label {
+    text-align: left;
+    font-size: 26px;
+    font-weight: 100;
+    margin: 20px;
+}
+fieldset {
+    border: 0;
+}
+footer {
+    width: 100%;
+    height: 100px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+.scoreContainer {
+    margin: 100px 50px ;
+    height:75px;
+    width: 300px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
